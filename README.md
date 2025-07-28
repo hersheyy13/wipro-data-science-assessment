@@ -2,11 +2,11 @@ wipro talent next assignments
 
 This solution includes miniproject solution and assignment questions solution based on:
 
-Python Fundamentals
-Data Structure
-Functions/Modules/Packages
-Command Line Agruments
-IO Operations
-Exception Handling
-Regular Expression
-List Comprehension / Lambda Functio
+1.Python Fundamentals
+2.Data Structure
+3. Functions/Modules/Packages
+4.Command Line Agruments
+5. IO Operations
+6. Exception Handling
+7. Regular Expression
+8. List Comprehension / Lambda Functio
